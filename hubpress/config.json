@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "data-matters",
-    "repositoryName": "data-matters.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"data-matters","repositoryName":"data-matters.github.io","branch":"master"},"site":{"title":"Data Obsession","description":"See everything through data.","url":"https://data-matters.github.io"},"socialnetwork":{"twitter":"ideasmatters","facebook":"abhishekeconomics"},"theme":{"name":"Casper","url":"//data-matters.github.io/themes/Casper"}}
