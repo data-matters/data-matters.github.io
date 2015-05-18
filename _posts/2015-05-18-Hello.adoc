@@ -1,0 +1,6 @@
+= Hello
+
+Welcome You are in "Hubpress"
+Since adjacent lines of text are combined into a single paragraph when Asciidoctor renders a document, that means you can wrap paragraph text or put each sentence or phrase on a separate line. The line breaks won’t appear in the output.
+
+However, if you want the line breaks in a paragraph to be preserved, you can either use a plus sign (+) or the hardbreaks attribute. This results in a visible line break (e.g., <br>) folowing each line.
